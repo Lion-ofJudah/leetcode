@@ -38,3 +38,4 @@ class Solution:
             n -= 1
 
         return result
+
